@@ -1,0 +1,57 @@
+.title1 {
+    color: var(--color-white);
+    font-family: var(--font-primary);
+    font-weight: 800;
+    line-height: 3.625rem;
+    font-size: 3rem;
+
+}
+
+.title2 {
+    color: var(--color-white);
+    font-family: var(--font-primary);
+    font-weight: 800;
+    font-size: 2.5rem;
+
+}
+
+.title3 {
+    color: var(--color-white);
+    font-family: var(--font-primary);
+    font-weight: 800;
+    font-size: 1.375rem;
+
+}
+
+
+.textKnowMore {
+    color: var(--color-brand-1);
+    font-family: var(--font-primary);
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.textKnowMore:hover {
+    color: var(--color-brand-hover);
+}
+
+.text__menu {
+    color: var(--color-white);
+    font-family: var(--font-primary);
+    font-weight: 600;
+    font-size: 0.875rem;
+    display: flex;
+    gap: 2rem;
+    cursor: pointer;
+}
+
+.logo {
+    width: 4.42rem;
+}
+
+.text {
+    font-family: var(--font-primary);
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--color-white);
+}

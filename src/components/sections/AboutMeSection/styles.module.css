@@ -1,0 +1,18 @@
+.container {
+    width: 100%;
+    display: flex;
+    gap: 1.5rem;
+    justify-content: space-between;
+    height: 10rem;
+    align-items: flex-start;
+    padding-top: 3rem;
+}
+
+.text {
+    width: 40rem;
+    color: var(--color-white);
+    font-family: var(--font-primary);
+    font-weight: 400;
+    line-height: 1.875rem;
+    font-size: 1rem;
+}

@@ -1,0 +1,18 @@
+.btn {
+    width: 7.12rem;
+    height: 2.43rem;
+    background-color: var(--color-brand-1);
+    color: var(--color-white);
+    font-family: var(--font-primary);
+    font-weight: 600;
+    font-size: 14px;
+    border-radius: 0.5rem;
+
+}
+
+.btn:hover {
+    background-color: var(--color-brand-hover);
+    cursor: pointer;
+    transition: 0.3s;
+
+}
